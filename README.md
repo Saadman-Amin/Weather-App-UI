@@ -1,6 +1,7 @@
-# screen04
+# Weather App UI
 
 A new Flutter project.
+This is a replication of the Weather app UI designed in Figma, link: https://www.figma.com/file/FN0tBmL2K4xiHzfxEMdM3u/weather-app-(Community)?node-id=0%3A1
 
 ## Getting Started
 
